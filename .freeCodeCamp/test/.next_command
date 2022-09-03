@@ -17,3 +17,9 @@ history -a
 chmod +x insert_data.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+cat courses.csv
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
+cd insert_data.sh
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
