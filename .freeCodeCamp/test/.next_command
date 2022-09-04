@@ -93,3 +93,6 @@ history -a
 ./insert_data.sh
 echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
 history -a
+cat courses_test.csv to courses.csv
+echo $PWD >> ~/project/.freeCodeCamp/test/.cwd
+history -a
